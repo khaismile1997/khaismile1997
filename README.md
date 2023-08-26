@@ -23,6 +23,8 @@ Here are some of the technologies and tools I'm familiar with:
 
 - Youtube video sharing (https://github.com/khaismile1997/video_sharing_web)
 - Book train tickets (private project) (https://taucaotochatien.vn/)
+- Social Insurance (private project) (https://biz.moneyforward.com/social_insurance)
+- Jinjer Attendance (private project) (https://hcm-jinjer.com/kintai/)
 
 Feel free to explore my repositories to see more of my work!
 
