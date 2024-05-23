@@ -25,6 +25,8 @@ Here are some of the technologies and tools I'm familiar with:
 - Book train tickets (private project) (https://taucaotochatien.vn/)
 - Social Insurance (private project) (https://biz.moneyforward.com/social_insurance)
 - Jinjer Attendance (private project) (https://hcm-jinjer.com/kintai/)
+- Megane E-commerce Store (private project) (https://www.tanaka-megane.co.jp/)
+- Civilian management system (https://meiwa-dx.net/)
 
 Feel free to explore my repositories to see more of my work!
 
